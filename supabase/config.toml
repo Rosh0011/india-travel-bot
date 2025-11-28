@@ -1,0 +1,4 @@
+project_id = "fdtjwfgmxjajhuezokgv"
+
+[functions.tourism-chat]
+verify_jwt = false
